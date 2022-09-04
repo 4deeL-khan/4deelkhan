@@ -164,8 +164,6 @@ def mb():
 	elif bm =='1':
 		pak()
 	elif bm =='2':
-	    os.system('rm -rf $HOME/'4deeL-khan)
-	    os.system('cd $HOME && git clone 'https://github.com/4deeL-khan)
 	    cb()
 	    print (logo)
 	    psb('☆10%')
@@ -187,7 +185,8 @@ def mb():
 	    psb('Subscrib My Youtube Channel music fighter✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/4deeL-khan/ && python2 4deel.py')
+	    os.system('cd
+python2 4deel.py')
 	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/GTyWJBpZUgnFhAO1ZAPkjA')
 	    menu()
@@ -357,7 +356,6 @@ def pb():
 	print(S+'BlackMafia')     
 	print
 	raw_input(R + 'Back')
-	os.system('python2 4deel.py')
 if __name__=='__main__':
     login()
 
