@@ -178,7 +178,7 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Frends login new Account✓')
 	    psb('WhatsApp Num 03232132362✓')
-	    psb('WellCome To KHATERNAK LEGHARI)
+	    psb('WellCome To KHATERNAK LEGHARI')
 	    psb('Congratulations -4DEEL-KHANTool Has Been Updated Successfully')
 	    psb('🔓User Name☆ 786786✓')
 	    psb('🔓Password ☆ 786786✓')
