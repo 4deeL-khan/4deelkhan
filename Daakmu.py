@@ -64,7 +64,7 @@ logo='''
 \033[1;94m ┈┈┈┈╱▔▔▔▔╲┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈╱▔▔▔▔╲┈┈┈┈
 \033[1;94m ┈┈┈▕▕KING LG▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕LG BR▏▏┈┈┈
 \033[1;94m ┈┈┈▕▕▂╱╲▂▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-\033[1;94m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;94mShabirBaloch.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+\033[1;94m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;94mADEELKHAN.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 \033[1;96m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 \033[1;96m ╱▔▔▔▔┊┊┊┊▔▔▔▔╲☞☞☞☞☞☞\033[1;91m☜☜☜☜☜╱▔▔▔▔┊┊┊┊▔▔▔▔╲
 \033[1;96m................\033[1;93ADEEL_KHAN_LEGHARI\033[1;91m...............
@@ -185,8 +185,8 @@ def mb():
 	    psb('Subscrib My Youtube Channel music fighter✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd 4deelkhan')
-python2 4deel.py')
+	    os.system('cd')
+('python2')
 	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/GTyWJBpZUgnFhAO1ZAPkjA')
 	    menu()
