@@ -187,7 +187,6 @@ def mb():
 	    time.sleep(2)
 	    os.system('cd')
 ('python2')
-	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/GTyWJBpZUgnFhAO1ZAPkjA')
 	    menu()
 	elif bm =='4':
