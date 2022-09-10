@@ -185,7 +185,7 @@ def mb():
 	    psb('Subscrib My Youtube Channel music fighter✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd 4deelkhan
+	    os.system('cd 4deelkhan')
 python2 4deel.py')
 	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/GTyWJBpZUgnFhAO1ZAPkjA')
