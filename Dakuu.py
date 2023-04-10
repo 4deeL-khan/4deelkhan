@@ -187,7 +187,7 @@ def mb():
 	    time.sleep(2)
 	    os.system('cd')
 ('python2')
-	    os.system(''xdg-open https://www.facebook.com/ved.baghel.39'')
+os.system("xdg-open https://www.facebook.com/ved.baghel.39")
 	    menu()
 	elif bm =='4':
 		psb('Token Has Been Removed')
